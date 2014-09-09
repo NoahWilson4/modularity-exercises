@@ -1,0 +1,45 @@
+/* ADD YOUR STYLES HERE */
+/* ADD YOUR STYLES HERE */
+table {
+	border-collapse: collapse;
+}
+
+th, td { 
+			border-bottom: solid 1px #c0c0c0;
+			padding: 12px 50px;
+		}
+
+tr.last td{
+			border-bottom: 0;
+}
+
+.largenum{
+			font-size: 2.2em;
+			font-weight: bold;
+}
+
+.overline {
+			border-top: solid 1px #c0c0c0;
+			}
+
+.overline td{
+			padding: 15px 17px;
+			text-align: center;
+}
+
+
+
+.barchart th {
+	border-bottom: none;
+	padding: 5px 5px 5px 0px;
+}
+.barchart tr td{
+
+	border-bottom: none;
+	padding: 1px 0px 1px 5px;
+	background-color: lightblue;
+	border: 5px solid white;
+}
+
+
+}
